@@ -1,0 +1,47 @@
+{
+  "MEN": {
+    "Topwear": ["T-Shirts", "Shirts", "Jackets", "Sweatshirts"],
+    "Bottomwear": ["Jeans", "Trousers", "Shorts", "Joggers"],
+    "Footwear": ["Sneakers", "Sandals", "Boots"],
+    "Accessories": ["Watches", "Bags", "Belts"]
+  },
+
+  "WOMEN": {
+    "Indian Wear": ["Kurtas", "Sarees", "Lehengas"],
+    "Western Wear": ["Tops", "Dresses", "Jeans", "Jumpsuits"],
+    "Footwear": ["Heels", "Flats", "Sneakers"],
+    "Beauty": ["Lipstick", "Kajal", "Moisturizer"]
+  },
+
+  "KIDS": {
+    "Boys Clothing": ["T-Shirts", "Shirts", "Shorts"],
+    "Girls Clothing": ["Dresses", "Tops", "Skirts"],
+    "Footwear": ["Sandals", "Flip Flops", "Sneakers"],
+    "Toys & Games": ["Action Figures", "Board Games", "Soft Toys"]
+  },
+
+  "HOME": {
+    "Furnishings": ["Bedsheets", "Curtains", "Cushions"],
+    "Decor": ["Wall Art", "Lamps", "Showpieces"],
+    "Kitchen & Dining": ["Cookware", "Storage", "Cutlery"]
+  },
+
+  "BEAUTY": {
+    "Makeup": ["Lipstick", "Foundation", "Eyeliner"],
+    "Skincare": ["Face Wash", "Moisturizer", "Sunscreen"],
+    "Haircare": ["Shampoo", "Conditioner", "Hair Oil"],
+    "Fragrances": ["Perfume", "Body Mist", "Deodorant"]
+  },
+
+  "GENZ": {
+    "Trendy Picks": ["Oversized T-Shirts", "Cargo Pants", "Y2K Fashion"],
+    "Accessories": ["Bucket Hats", "Chains", "Rings"],
+    "Sneaker Zone": ["Chunky Sneakers", "High Tops", "Slip-ons"]
+  },
+
+  "STUDIO": {
+    "What's New": ["Fresh Drops", "Trend Stories", "Editor Picks"],
+    "Featured": ["Fashion Shows", "Behind the Scenes", "Celebrity Styles"],
+    "Videos": ["Style Hacks", "How-to-Wear", "Makeup Tutorials"]
+  }
+}

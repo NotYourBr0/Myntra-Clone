@@ -1,0 +1,485 @@
+[
+  {
+    "id": 1,
+    "title": "Floral Summer Dress",
+    "brand": "DressBerry",
+    "category": "womens-dresses",
+    "price": 1299,
+    "discount": 50,
+    "rating": 4.5,
+    "image": "/images/products/floral.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Elegant Midi Dress",
+    "brand": "Tokyo Talkies",
+    "category": "womens-dresses",
+    "price": 999,
+    "discount": 40,
+    "rating": 4.3,
+    "image":"/images/products/midi.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Printed Casual Dress",
+    "brand": "SASSAFRAS",
+    "category": "womens-dresses",
+    "price": 1399,
+    "discount": 30,
+    "rating": 4.2,
+    "image": "/images/products/pcasual.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Boho Wrap Dress",
+    "brand": "Harpa",
+    "category": "womens-dresses",
+    "price": 1099,
+    "discount": 35,
+    "rating": 4.6,
+    "image": "/images/products/boho.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Men's Slim Fit Shirt",
+    "brand": "Louis Philippe",
+    "category": "mens-shirts",
+    "price": 1199,
+    "discount": 40,
+    "rating": 4.4,
+    "image": "/images/products/slim.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Checked Cotton Shirt",
+    "brand": "Allen Solly",
+    "category": "mens-shirts",
+    "price": 1399,
+    "discount": 30,
+    "rating": 4.2,
+    "image": "/images/products/check.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Casual Denim Shirt",
+    "brand": "Roadster",
+    "category": "mens-shirts",
+    "price": 999,
+    "discount": 50,
+    "rating": 4.1,
+    "image": "/images/products/denim.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Formal Work Shirt",
+    "brand": "Van Heusen",
+    "category": "mens-shirts",
+    "price": 1299,
+    "discount": 45,
+    "rating": 4.3,
+    "image": "/images/products/formal.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Men's Running Shoes",
+    "brand": "Nike",
+    "category": "mens-shoes",
+    "price": 2999,
+    "discount": 20,
+    "rating": 4.6,
+    "image": "/images/products/nike.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Casual Sneakers",
+    "brand": "Puma",
+    "category": "mens-shoes",
+    "price": 2299,
+    "discount": 30,
+    "rating": 4.5,
+    "image":"/images/products/puma.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "White Lace Up Shoes",
+    "brand": "HRX",
+    "category": "mens-shoes",
+    "price": 1999,
+    "discount": 35,
+    "rating": 4.4,
+    "image": "/images/products/hrx.jpeg"
+  },
+  {
+    "id": 12,
+    "title": "Stylish Slip-ons",
+    "brand": "Woodland",
+    "category": "mens-shoes",
+    "price": 1899,
+    "discount": 25,
+    "rating": 4.3,
+    "image":"/images/products/woodland.jpeg"
+  },
+  {
+    "id": 13,
+    "title": "Women's Running Shoes",
+    "brand": "Puma",
+    "category": "womens-shoes",
+    "price": 2599,
+    "discount": 25,
+    "rating": 4.6,
+    "image": "/images/products/puma-girl.jpeg"
+  },
+  {
+    "id": 14,
+    "title": "Classic White Sneakers",
+    "brand": "DressBerry",
+    "category": "womens-shoes",
+    "price": 1499,
+    "discount": 40,
+    "rating": 4.5,
+    "image": "/images/products/dressberry.jpeg"
+  },
+  {
+    "id": 15,
+    "title": "Breathable Mesh Sports Shoes",
+    "brand": "HRX",
+    "category": "womens-shoes",
+    "price": 1799,
+    "discount": 30,
+    "rating": 4.4,
+    "image": "/images/products/mesh.jpeg"
+  },
+  {
+    "id": 16,
+    "title": "Lightweight Walking Shoes",
+    "brand": "Nike",
+    "category": "womens-shoes",
+    "price": 2099,
+    "discount": 35,
+    "rating": 4.7,
+    "image": "/images/products/light-nike.jpeg"
+  },
+  
+  {
+    "id": 17,
+    "title": "Gold Round Watch",
+    "brand": "Titan",
+    "category": "womens-watches",
+    "price": 2499,
+    "discount": 40,
+    "rating": 4.6,
+    "image": "/images/products/titan.jpeg"
+  },
+  {
+    "id": 18,
+    "title": "Leather Strap Watch",
+    "brand": "Fastrack",
+    "category": "womens-watches",
+    "price": 1499,
+    "discount": 30,
+    "rating": 4.4,
+    "image": "/images/products/fastrack.jpeg"
+  },
+  {
+    "id": 19,
+    "title": "Classic Analog Watch",
+    "brand": "Casio",
+    "category": "womens-watches",
+    "price": 1899,
+    "discount": 35,
+    "rating": 4.3,
+    "image":"/images/products/xasio.jpeg"
+  },
+  {
+    "id": 20,
+    "title": "Luxury Rose Watch",
+    "brand": "Daniel Klein",
+    "category": "womens-watches",
+    "price": 2999,
+    "discount": 50,
+    "rating": 4.7,
+    "image": "/images/products/rose.jpeg"
+  },
+  {
+    "id": 21,
+    "title": "Aviator Sunglasses",
+    "brand": "Ray-Ban",
+    "category": "sunglasses",
+    "price": 2299,
+    "discount": 45,
+    "rating": 4.8,
+    "image":"/images/products/rayban.jpeg"
+  },
+  {
+    "id": 22,
+    "title": "UV Protection Shades",
+    "brand": "Fastrack",
+    "category": "sunglasses",
+    "price": 899,
+    "discount": 30,
+    "rating": 4.2,
+    "image": "/images/products/shades.jpeg"
+  },
+  {
+    "id": 23,
+    "title": "Classic Wayfarers",
+    "brand": "Vincent Chase",
+    "category": "sunglasses",
+    "price": 1199,
+    "discount": 35,
+    "rating": 4.4,
+    "image": "/images/products/vincent.jpeg"
+  },
+  {
+    "id": 24,
+    "title": "Polarized Sunglasses",
+    "brand": "Oakley",
+    "category": "sunglasses",
+    "price": 2899,
+    "discount": 40,
+    "rating": 4.6,
+    "image": "/images/products/oakley.jpeg"
+  },
+  {
+    "id": 25,
+    "title": "Casual Blue Top",
+    "brand": "Only",
+    "category": "tops",
+    "price": 799,
+    "discount": 30,
+    "rating": 4.3,
+    "image":"/images/products/only.jpeg"
+  },
+  {
+    "id": 26,
+    "title": "Printed Crop Top",
+    "brand": "Harpa",
+    "category": "tops",
+    "price": 699,
+    "discount": 50,
+    "rating": 4.1,
+    "image": "/images/products/harpa.jpeg"
+  },
+  {
+    "id": 27,
+    "title": "Full Sleeve Top",
+    "brand": "Tokyo Talkies",
+    "category": "tops",
+    "price": 999,
+    "discount": 35,
+    "rating": 4.5,
+    "image": "/images/products/tokyo.jpeg"
+  },
+  {
+    "id": 28,
+    "title": "V-Neck Solid Top",
+    "brand": "DressBerry",
+    "category": "tops",
+    "price": 899,
+    "discount": 20,
+    "rating": 4.2,
+    "image": "/images/products/solid.jpeg"
+  },
+  {
+    "id": 29,
+    "title": "Leather Sling Bag",
+    "brand": "ZARA",
+    "category": "womens-bags",
+    "price": 1799,
+    "discount": 30,
+    "rating": 4.4,
+    "image": "/images/products/zara.jpeg"
+  },
+  {
+    "id": 30,
+    "title": "Handheld Tote Bag",
+    "brand": "Caprese",
+    "category": "womens-bags",
+    "price": 2199,
+    "discount": 40,
+    "rating": 4.6,
+    "image": "/images/products/tote.jpeg"
+  },
+  {
+    "id": 31,
+    "title": "Sling Bag with Chain",
+    "brand": "Lino Perros",
+    "category": "womens-bags",
+    "price": 1299,
+    "discount": 35,
+    "rating": 4.3,
+    "image": "/images/products/hain.jpeg"
+  },
+  {
+    "id": 32,
+    "title": "Boxy Shoulder Bag",
+    "brand": "H&M",
+    "category": "womens-bags",
+    "price": 1499,
+    "discount": 25,
+    "rating": 4.2,
+    "image": "/images/products/boxy.jpeg"
+  },
+  {
+    "id": 33,
+    "title": "Pearl Choker Set",
+    "brand": "Voylla",
+    "category": "womens-jewellery",
+    "price": 999,
+    "discount": 30,
+    "rating": 4.4,
+    "image": "/images/products/pearl.jpeg"
+  },
+  {
+    "id": 34,
+    "title": "Gold Drop Earrings",
+    "brand": "Zaveri Pearls",
+    "category": "womens-jewellery",
+    "price": 599,
+    "discount": 40,
+    "rating": 4.5,
+    "image": "/images/products/drop.jpeg"
+  },
+  {
+    "id": 35,
+    "title": "Statement Necklace",
+    "brand": "Tribe Amrapali",
+    "category": "womens-jewellery",
+    "price": 1899,
+    "discount": 35,
+    "rating": 4.7,
+    "image":"/images/products/statement.jpeg"
+  },
+  {
+    "id": 36,
+    "title": "Gold Plated Bracelet",
+    "brand": "Yellow Chimes",
+    "category": "womens-jewellery",
+    "price": 499,
+    "discount": 50,
+    "rating": 4.1,
+    "image": "/images/products/plated.jpeg"
+  },
+  {
+    "id": 37,
+    "title": "Wall Art Canvas Set",
+    "brand": "Homesake",
+    "category": "home-decoration",
+    "price": 799,
+    "discount": 30,
+    "rating": 4.2,
+    "image": "/images/products/canva.jpeg"
+  },
+  {
+    "id": 38,
+    "title": "LED Fairy Lights",
+    "brand": "Generic",
+    "category": "home-decoration",
+    "price": 299,
+    "discount": 25,
+    "rating": 4.3,
+    "image": "/images/products/fairy.jpeg"
+  },
+  {
+    "id": 39,
+    "title": "Ganesha Idol",
+    "brand": "eCraftIndia",
+    "category": "home-decoration",
+    "price": 899,
+    "discount": 35,
+    "rating": 4.6,
+    "image": "/images/products/ganesh.jpeg"
+  },
+  {
+    "id": 40,
+    "title": "Wooden Wall Clock",
+    "brand": "Ajanta",
+    "category": "home-decoration",
+    "price": 499,
+    "discount": 20,
+    "rating": 4.0,
+    "image": "/images/products/clock.jpeg"
+  },
+  {
+    "id": 41,
+    "title": "Skinn Raw Perfume",
+    "brand": "Titan",
+    "category": "fragrances",
+    "price": 899,
+    "discount": 30,
+    "rating": 4.5,
+    "image": "/images/products/skinn.jpeg"
+  },
+  {
+    "id": 42,
+    "title": "Bella Vita Luxury",
+    "brand": "Bella Vita",
+    "category": "fragrances",
+    "price": 649,
+    "discount": 40,
+    "rating": 4.4,
+    "image": "/images/products/bella.jpeg"
+  },
+  {
+    "id": 43,
+    "title": "Fogg Impressio",
+    "brand": "Fogg",
+    "category": "fragrances",
+    "price": 499,
+    "discount": 35,
+    "rating": 4.3,
+    "image": "/images/products/fogg.jpeg"
+  },
+  {
+    "id": 44,
+    "title": "Denver Hamilton",
+    "brand": "Denver",
+    "category": "fragrances",
+    "price": 559,
+    "discount": 20,
+    "rating": 4.0,
+    "image": "/images/products/denver.jpeg"
+  },
+  {
+    "id": 45,
+    "title": "Analog Steel Watch",
+    "brand": "Titan",
+    "category": "mens-watches",
+    "price": 2199,
+    "discount": 35,
+    "rating": 4.4,
+    "image": "/images/products/steel.jpeg"
+  },
+  {
+    "id": 46,
+    "title": "Leather Strap Watch",
+    "brand": "Fossil",
+    "category": "mens-watches",
+    "price": 3299,
+    "discount": 40,
+    "rating": 4.6,
+    "image": "/images/products/fossil.jpeg"
+  },
+  {
+    "id": 47,
+    "title": "Smart Hybrid Watch",
+    "brand": "Noise",
+    "category": "mens-watches",
+    "price": 3599,
+    "discount": 45,
+    "rating": 4.3,
+    "image":"/images/products/noise.jpeg"
+  },
+  {
+    "id": 48,
+    "title": "Minimal Dial Watch",
+    "brand": "Casio",
+    "category": "mens-watches",
+    "price": 2499,
+    "discount": 30,
+    "rating": 4.2,
+    "image": "/images/products/dial.jpeg"
+  }
+]
+
+

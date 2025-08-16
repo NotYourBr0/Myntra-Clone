@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Women's Dresses",
+    "discount": 60,
+    "slug": "womens-dresses",
+    "image": "/images/category/ethnic-wear.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Men's Shirts",
+    "discount": 40,
+    "slug": "mens-shirts",
+    "image": "/images/category/men-shirt.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Men's Footwear",
+    "discount": 50,
+    "slug": "mens-shoes",
+    "image": "/images/category/men-shoes.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Women's Footwear",
+    "discount": 55,
+    "slug": "womens-shoes",
+    "image": "/images/category/women-shoes.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Women's Watches",
+    "discount": 35,
+    "slug": "womens-watches",
+    "image": "/images/category/women-watch.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Sunglasses",
+    "discount": 25,
+    "slug": "sunglasses",
+    "image": "/images/category/eye.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Tops",
+    "discount": 45,
+    "slug": "tops",
+    "image": "/images/category/tops.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Handbags",
+    "discount": 60,
+    "slug": "womens-bags",
+    "image": "/images/category/handbag.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Jewellery",
+    "discount": 70,
+    "slug": "womens-jewellery",
+    "image": "/images/category/jewellery.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Home Decor",
+    "discount": 50,
+    "slug": "home-decoration",
+    "image": "/images/category/home-decor.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Fragrances",
+    "discount": 30,
+    "slug": "fragrances",
+    "image": "/images/category/fragrance.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Men's Watches",
+    "discount": 35,
+    "slug": "mens-watches",
+    "image": "/images/category/men-watche.jpeg"
+  }
+]
